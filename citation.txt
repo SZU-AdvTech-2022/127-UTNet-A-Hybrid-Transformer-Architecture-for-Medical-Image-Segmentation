@@ -1,0 +1,8 @@
+@inproceedings{REPO-128,
+    author = "Gao, Yunhe and Zhou, Mu and Metaxas, Dimitris N",
+    booktitle = "Medical Image Computing and Computer Assisted Intervention--MICCAI 2021: 24th International Conference, Strasbourg, France, September 27--October 1, 2021, Proceedings, Part III 24",
+    organization = "Springer",
+    pages = "61--71",
+    title = "{UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation}",
+    year = "2021"
+}
